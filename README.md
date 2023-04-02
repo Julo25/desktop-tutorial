@@ -8,8 +8,6 @@
   <li>HTML</li>
   <li>CSS</li>
   <li>JavaScript</li>
-  <li>Bootstrap</li>
-  <li>jQuery</li>
   <li>Git</li>
 </ul>
 
